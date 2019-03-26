@@ -13492,7 +13492,7 @@ react-native-deprecated-custom-components@^0.1.0:
     react-timer-mixin "^0.13.2"
     rebound "^0.0.13"
 
-react-native-gesture-handler@1.1.0, react-native-gesture-handler@^1.1.0:
+react-native-gesture-handler@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.1.0.tgz#2a7d545ad2e0ca23adce22b2af441ad360ecccee"
   integrity sha512-E9IKHpmL+sz/iCYkUriTUjBaQBORWV+oheYPQleADkxjo2sYsQfnlyTz4EQYFONkUwJ6WmfTNkYt2/yc5U4Ziw==
@@ -13684,7 +13684,7 @@ react-navigation-tabs@1.1.2:
     react-lifecycles-compat "^3.0.4"
     react-native-tab-view "^1.3.4"
 
-react-navigation@^3.4.0-rc.0:
+react-navigation@^3.4.0-rc.0, react-navigation@^3.8.1:
   version "3.8.1"
   resolved "https://registry.yarnpkg.com/react-navigation/-/react-navigation-3.8.1.tgz#9df7ba8a7d3f4d2487dab576b79cf9cfc7f93d5a"
   integrity sha512-GzLZPZlYGqSuZTAiWu6TlwfhZ4UqK7n7gdo4+9OzlQ/Cw7g2KHks+/43iU4pX+V1/YhnRDTgdGrJFq+vC6aDzw==
