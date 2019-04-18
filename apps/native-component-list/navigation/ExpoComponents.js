@@ -25,7 +25,12 @@ const FacebookAds = optionalRequire(() => require('../screens/FacebookAdsScreen'
 const GL = optionalRequire(() => require('../screens/GL/GLScreen'));
 const GLScreens = optionalRequire(() => require('../screens/GL/GLScreens'));
 const Lottie = optionalRequire(() => require('../screens/LottieScreen'));
-const ImagePreview = optionalRequire(() => require('../screens/Reanimated/ImagePreviewScreen'));
+const ReanimatedImagePreview = optionalRequire(() =>
+  require('../screens/Reanimated/ReanimatedImagePreviewScreen')
+);
+const ReanimatedProgress = optionalRequire(() =>
+  require('../screens/Reanimated/ReanimatedProgressScreen')
+);
 const SVGExample = optionalRequire(() => require('../screens/SVG/SVGExampleScreen'));
 const SVG = optionalRequire(() => require('../screens/SVG/SVGScreen'));
 
@@ -39,7 +44,8 @@ const optionalScreens = {
   GestureHandlerPinch,
   GestureHandlerList,
   GestureHandlerSwipeable,
-  ImagePreview,
+  ReanimatedImagePreview,
+  ReanimatedProgress,
   Gif,
   FacebookAds,
   SVG,

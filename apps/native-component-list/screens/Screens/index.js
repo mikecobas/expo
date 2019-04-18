@@ -1,11 +1,5 @@
 import React from 'react';
-import {
-  Text,
-  View,
-  FlatList,
-  StyleSheet,
-  TouchableHighlight,
-} from 'react-native';
+import { Text, View, FlatList, StyleSheet, TouchableHighlight } from 'react-native';
 import { createStackNavigator, createSwitchNavigator } from 'react-navigation';
 
 import Container from './container';
